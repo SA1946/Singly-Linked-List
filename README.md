@@ -4,6 +4,9 @@ This project provides a comprehensive implementation of a Singly Linked List (SL
 
 A singly linked list is a linear data structure where each node contains data and a pointer to the next node. It is commonly used for efficient memory utilization and dynamic data manipulation.
 
+## ⚖️ stoi library 
+This project also utilizes the stoi function from the C++ Standard Library to convert user input from strings to integers. For more details about how stoi works, you can refer to [GeeksforGeeks – std::stoi function in C++.](https://www.geeksforgeeks.org/cpp/stdstoi-function-in-cpp/)
+
 ## 📸 Screenshots
 
 ![Screenshots](https://github.com/user-attachments/assets/2489f6db-b3c5-4280-be12-fd1dde03a60a)
@@ -74,6 +77,10 @@ _This implementation supports the following 12 core operations:_
 9. DelNode(pos) – Delete a node from a specific position
 
 (Optional: Any extra function you added) – Feel free to describe custom logic here
+
+
+    
+
 
 ## 📄 License
 
